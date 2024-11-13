@@ -1,4 +1,4 @@
-### 2. Download Individual Files
+### Download Individual Files
 
 To download a specific file (e.g., a `.pbix` file):
 
